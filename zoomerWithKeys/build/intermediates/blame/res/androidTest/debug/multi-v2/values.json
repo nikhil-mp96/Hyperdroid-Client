@@ -1,0 +1,58 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\nikhi\\Desktop\\HyperDroid\\Hyperdroid-Client\\zoomerWithKeys\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\nikhi\\Desktop\\HyperDroid\\Hyperdroid-Client\\zoomerWithKeys\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,85",
+                        "endColumns": "29,46",
+                        "endOffsets": "80,127"
+                    },
+                    "to": {
+                        "startLines": "3,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "173,370",
+                        "endColumns": "29,46",
+                        "endOffsets": "198,412"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\nikhi\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.0.4.aar\\c07139ce81fd501adb8d66faf53b516b\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "4,7",
+                        "startColumns": "0,0",
+                        "startOffsets": "276,439",
+                        "endColumns": "63,166",
+                        "endOffsets": "339,605"
+                    },
+                    "to": {
+                        "startLines": "2,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "105,203",
+                        "endColumns": "67,166",
+                        "endOffsets": "168,365"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\home\\nikhil\\Desktop\\hyperdroid\\Hyperdroid-Client\\zoomerWithKeys\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\home\\nikhil\\Desktop\\hyperdroid\\Hyperdroid-Client\\zoomerWithKeys\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,85",
+                        "endColumns": "29,46",
+                        "endOffsets": "80,127"
+                    }
+                }
+            ]
+        }
+    ]
+}
